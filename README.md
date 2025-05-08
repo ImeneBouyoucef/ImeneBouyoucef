@@ -1,4 +1,4 @@
-## Hi there I'm imene 👋🏼
+## Hi there, I'm Imene 👋🏼
 
 I love coding and developing all kinds of projects.  
 I'm always eager to learn new things,  
