@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there I'm imene 👋🏼
 
-<!--
-**ImHereForEver/ImHereForEver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love coding and developing all kinds of projects.  
+I'm always eager to learn new things,  
+either on my own or as part of a team.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:**
+  * Python,  
+    Javascript,  
+    HTML, CSS,  
+    Java, C  
+
+- **Databases:**
+  * MySQL  
+
+## 📫 How to reach me
+
+- Email:  
+  imene.bouyoucef2005@gmail.com
+
+Thank you for stopping by – feel free to explore and connect.
