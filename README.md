@@ -8,7 +8,7 @@ either on my own or as part of a team.
 
 - **Languages:**
   * Python,  
-    Javascript, PHP 
+    Javascript, PHP,
     HTML, CSS,  
     Java, C  
 
