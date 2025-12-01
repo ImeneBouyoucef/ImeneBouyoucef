@@ -13,7 +13,7 @@ either on my own or as part of a team.
     Java, C  
 
 - **Databases:**
-  * MySQL  
+  * MySQL / PGSQL
 
 ## 📫 How to reach me
 
